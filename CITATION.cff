@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "При использовании исходного кода укажите репозиторий и точный коммит."
+title: "SYNERGY HIAI 14: Цена правильного ответа RAG"
+type: software
+authors:
+  - name: "SYNERGY contributors"
+repository-code: "https://github.com/Shtenco/timeweb_synergy_rag_quality_cost"
+license: MIT
