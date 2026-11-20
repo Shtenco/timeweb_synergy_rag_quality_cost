@@ -1,0 +1,16 @@
+{
+  "repository": "timeweb_synergy_rag_quality_cost",
+  "public_source_files": 9,
+  "excluded_offline_only": [],
+  "sha256": {
+    ".gitignore": "d9d3d414f6f84c0ef3d8b09d59f49f6c2c173fab18219c9fa262db2383820cf5",
+    "README.md": "9318173c54f40454af5b8501866f916e096c6d6909d83ed931b8374305583434",
+    "prototypes/__init__.py": "7ea3e33621d03c4e3e2271d2e93e55721d45d99472f589fa698ec105fcddfdb6",
+    "prototypes/__main__.py": "c63aff76bcd5a382a42c8d13eb3c2f5fb2c564b451bdfd20819631c3725055d6",
+    "prototypes/runner.py": "3e1a59a8d2260be864749b4aa583961569fdcbee7b161f1025ae3725a841306f",
+    "prototypes/scenarios/__init__.py": "60d32f11ef7875e4b24eedf3a631281803e0295a8206e39819cf2cae243632f8",
+    "prototypes/scenarios/article14.py": "16fe17bebcea7a1ada308f248c3bd1a6091c8bb05c88f9c83f2cc2d54ce95220",
+    "prototypes/tests/test_articles_13_15.py": "df484799a67adca1c23bed0fd4b79e969712781862a79ff5cd77fc655bca0244",
+    "requirements.txt": "12b84930f4edd3f3d1fde62f07d61110a07a88bdfb5acc5338f7fda8a61b8247"
+  }
+}
